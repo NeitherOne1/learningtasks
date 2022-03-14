@@ -2,18 +2,13 @@
 <html>
    <head>
       <title> My Home Page </title>
-   
-   <styles>
-   body{
-      backgroubd-image:url(images/jpg);
-      background-repeat:no-repeat;
-      background-size:cover;
-      background-position: top center;
-      }
-      </style>
-      </head>
-      <body>
-         <h1 style="font-size:100px; background-color:rgba(255,17,0,73; color:white; text-align:center;>My Top 10 Movies </h1>
-      </body>
+   </head>
+   <body>
+      <h1>Welcome to My Website! I am Ivan !</h1>
+      <ul>
+         <li><a href="index.php">HOME</a></li>
+         <li><a href="/LT2/index.html">LEARNING TASK 2</a></li>
+      </ul>
+   </body>
    
  </html
