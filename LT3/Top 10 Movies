@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My Top 10 Movies</title>
+</head>
+<body>
+<ul>
+<div id = "top-one">
+<ul>
+    <li><a The Shawshank Redemption (1994)</li>
+    <img src="Shawnshank.jpg" alt=Shawnshank."
+    <li>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</li>
+    <li> Stars: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler </li>
+</ul>
+
+<div id = "top-two">
+<ul>
+    <li> The Godfather (1972)</li>
+    <img src="The Godfather.jpg" alt="The Godfather\"
+    <li> The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.</li>
+    <li> Stars: Marlon Brando, Al Pacino, James Caan, Diane Keaton</li>
+</ul>
+<div id = "top-three">
+<ul>
+    <li> Schindler's List (1993) </li>
+    <img src="Schindler's List.jpg alt=\Schindler's List
+    <li> In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.</li>
+    <li> Stars: Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall</li>
+</ul>
+<div id = "top-four">
+<ul>
+    <li> The Matrix (1999) </li
+    <img src="The Matrix.jpg alt="The Matrix"
+    <li> When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.</li>
+    <li>Stars: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving</li>
+</ul>
+<div id = "top-five">
+<ul>
+    <li> Forrest Gump (1994)</li>
+    <img src="Forrest Gump.jpg"
+    <li> The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart. </li>
+    <li>Stars: Tom Hanks, Robin Wright, Gary Sinise, Sally Field
+</ul>
+<div od = "top-six">
+<ul>
+    <li> Interstellar (2014)</li>
+    <img src="Interstellar.jpg" alt="Interstellar"
+    <li> A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival. </li>
+    <li> Stars: Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy</li>
+</ul>
+<div od = "top-seven">
+<ul>
+    <li>Inception (2010)</li
+    <img src="Inception.jpeg" alt="Inception
+    <li>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.</li>
+    <li> Stars: Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe</li>
+</ul>
+<div od = "top-eight">
+<ul>
+    <li>The Green Mile (1999)</li>
+    <img src="Green Mile" alt="Green Mile"
+    <li>The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.</li>
+    <li>Stars: Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt</li>
+</ul>
+<div od = "top-nine">
+<ul>
+    <li> Good Will Hunting (1997)</li>
+    <img src="Good Will Hunting.jpg" alt="Good Will Hunting"
+    <li>Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.</li>
+    <li>Stars: Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård</li>
+</ul>
+<div od = "top-ten">
+<ul>
+    <li> WALL·E (2008)</li>
+    <img src="Wall E.jpg" alt="Wall E" 
+    <li> In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.</li>
+</ul>
+</body>
+</html>
+    
+
+
+    
