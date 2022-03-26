@@ -1,0 +1,87 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+header{
+	background-image: url(Covid-19.webp);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+body{
+ font-family: arial;
+}
+.main{
+ margin: 2%;
+}
+
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+	
+	
+}	
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	transition: 0.5s ease;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+.card{
+     width: 12%;
+     display: inline-block;
+     box-shadow: 2px 2px 20px black;
+     border-radius: 10px; 
+     margin-top: 250px;
+	  
+	
+ }
+
+.image img{
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  
+ }
+
+.title{
+ 
+  text-align: center;
+  padding: 10px;
+  
+ }
+
+h1{
+  font-size: 20px;
+  color: white;
+ }
+
+.des{
+  padding: 3px;
+  text-align: center;
+  color: white;
+ 
+  padding-top: 10px;
+        border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+
